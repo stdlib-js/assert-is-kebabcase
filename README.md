@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isKebabcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-kebabcase@deno/mod.js';
+import isKebabcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-kebabcase@v0.0.1-deno/mod.js';
 ```
 
 #### isKebabcase( value )
@@ -67,7 +67,7 @@ bool = isKebabcase( 'BEEP_BOOP' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isKebabcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-kebabcase@deno/mod.js';
+import isKebabcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-kebabcase@v0.0.1-deno/mod.js';
 
 var bool = isKebabcase( 'beep-boop' );
 // returns true
