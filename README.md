@@ -31,6 +31,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isKebabcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-kebabcase@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-is-kebabcase/tags). For example,
+
+```javascript
 import isKebabcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-kebabcase@v0.0.3-esm/index.mjs';
 ```
 
@@ -72,7 +77,7 @@ bool = isKebabcase( 'BEEP_BOOP' );
 <body>
 <script type="module">
 
-import isKebabcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-kebabcase@v0.0.3-esm/index.mjs';
+import isKebabcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-kebabcase@esm/index.mjs';
 
 var bool = isKebabcase( 'beep-boop' );
 // returns true
