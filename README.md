@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isKebabcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-kebabcase@esm/index.mjs';
+import isKebabcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-kebabcase@v0.2.2-esm/index.mjs';
 ```
 
 #### isKebabcase( value )
@@ -83,7 +83,7 @@ bool = isKebabcase( 'BEEP_BOOP' );
 <body>
 <script type="module">
 
-import isKebabcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-kebabcase@esm/index.mjs';
+import isKebabcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-kebabcase@v0.2.2-esm/index.mjs';
 
 var bool = isKebabcase( 'beep-boop' );
 // returns true
