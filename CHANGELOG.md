@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-14)
+## Unreleased (2026-01-10)
 
 <section class="commits">
 
@@ -12,6 +12,9 @@
 
 <details>
 
+-   [`bfc8c3a`](https://github.com/stdlib-js/stdlib/commit/bfc8c3a7bcebf1a049c9e457ab440f540fd5c7a9) - **chore:** use one asterisk for license comment in TS files _(by Philipp Burckhardt)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`f9651e6`](https://github.com/stdlib-js/stdlib/commit/f9651e6411b4ebd3c95dcc6b46c02e6d5be009fa) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`d3d3d14`](https://github.com/stdlib-js/stdlib/commit/d3d3d14939ac77ab7d5a4476551108f8ff1c3f1f) - **docs:** update related packages sections [(#4149)](https://github.com/stdlib-js/stdlib/pull/4149) _(by stdlib-bot, Philipp Burckhardt)_
 
 </details>
